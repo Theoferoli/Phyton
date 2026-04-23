@@ -13,4 +13,4 @@ Estruturas de decisão (if, else)
 Operadores matemáticos
 
 🛠️ Como rodar os scripts
-Se você tiver o Python instalado, é só baixar o arquivo e rodar no terminal:
+Se você tiver o Python instalado, é só baixar o arquivo e rodar no terminal
